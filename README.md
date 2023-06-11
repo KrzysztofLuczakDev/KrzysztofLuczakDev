@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <!-- <img align="left" src="https://assets8.lottiefiles.com/packages/lf20_0yfsb3a1.json" alt="krzysztofluczakdev" /> -->
 
 <!-- <div styles="dislpay:flex;justify-content:space-around;align-items:center;gap:4rem;flex-direction:row;"> -->
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofluczakdev&" alt="krzysztofluczakdev" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=krzysztofluczakdev&show_icons=true&locale=en" alt="krzysztofluczakdev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofluczakdev&" alt="krzysztofluczakdev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krzysztofluczakdev&show_icons=true&locale=en" alt="krzysztofluczakdev" />
 <!-- </div> -->
 
 
